@@ -1,0 +1,16 @@
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "e74b39c2-bd74-44e3-846e-0f377fc514ca",
+        "name": "REST API",
+        "designId": "d1290f08-7a4d-4a90-8636-518e74fcc474",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "2adce8d5-2056-479d-a21a-068f55a8077f": {
+        "id": "2cbbb62d-97f2-42cf-8962-11f4ac4a6ac5",
+        "name": "Mapbox",
+        "designId": "d1290f08-7a4d-4a90-8636-518e74fcc474",
+        "pluginId": "2adce8d5-2056-479d-a21a-068f55a8077f",
+        "publicData": {}
+    }
+}
