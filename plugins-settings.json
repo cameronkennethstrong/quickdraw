@@ -13,6 +13,28 @@
         "pluginId": "2adce8d5-2056-479d-a21a-068f55a8077f",
         "publicData": {}
     },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "fc2e517e-1eca-4baf-a2be-dd4f4ce11164",
+        "name": "Supabase",
+        "designId": "d1290f08-7a4d-4a90-8636-518e74fcc474",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp1dWdwZnliZ3hndHp6ZndtbndkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njk3MTY4NjEsImV4cCI6MjA4NTI5Mjg2MX0.PS6fJKs_iBB00kpp_E6PKmL41jo-Ir87U49vSOQvmXQ",
+            "projectUrl": "https://juugpfybgxgtzzfwmnwd.supabase.co",
+            "customDomain": "",
+            "environments": {
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imp1dWdwZnliZ3hndHp6ZndtbndkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njk3MTY4NjEsImV4cCI6MjA4NTI5Mjg2MX0.PS6fJKs_iBB00kpp_E6PKmL41jo-Ir87U49vSOQvmXQ",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://juugpfybgxgtzzfwmnwd.supabase.co",
+                    "customDomain": "",
+                    "baseProjectRef": "juugpfybgxgtzzfwmnwd"
+                }
+            },
+            "realtimeTables": {}
+        }
+    },
     "97e7b1ae-f88a-4697-849c-ee56ab49bb48": {
         "id": "4e67aace-49b9-4030-9d54-f18804a96ee6",
         "name": "JavaScript",
